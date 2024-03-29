@@ -1,0 +1,13 @@
+{
+    "name": "jmcomponents/helpers",
+    "description": "Helpers for JMFramework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
